@@ -2,8 +2,8 @@
 
 echo "enter number"
 
-#number= read num
-number=$1
+read number
+#number=$1
 
 if [ $number -lt 10 ]; then
 

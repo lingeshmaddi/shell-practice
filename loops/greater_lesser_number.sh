@@ -2,7 +2,7 @@
 
 echo "enter number"
 
-number= read $1
+number= read num
 
 if (number lt 10) then
 

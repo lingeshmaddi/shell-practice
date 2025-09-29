@@ -1,3 +1,3 @@
 #!/bin/bash/
 
-echo "i am dialy attending the $COURSE"
+echo "i am dialy attending the $COURSE "

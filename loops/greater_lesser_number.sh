@@ -4,7 +4,7 @@ echo "enter number"
 
 number= read num
 
-if ($number lt 10) then
+if ($number -lt 10) then
 
 echo "entered number :$number is  less tahn 10"
 
